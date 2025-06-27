@@ -1,6 +1,7 @@
 # Traefik plugin manifest for tianji plugin
 displayName: Tianji Plugin
 type: middleware
+iconPath: .assets/logo.png
 import: github.com/msgbyte/traefik-tianji-plugin
 
 summary: 'A Traefik plugin for Tianji analytics integration'
